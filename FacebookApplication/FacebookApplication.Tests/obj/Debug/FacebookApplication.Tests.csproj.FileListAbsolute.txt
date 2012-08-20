@@ -1,0 +1,12 @@
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\FacebookApplication.Tests.dll.config
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\FacebookApplication.Tests.dll
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\FacebookApplication.Tests.pdb
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\FacebookApplication.dll
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\EntityFramework.dll
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\FacebookApplication.pdb
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\EntityFramework.xml
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\obj\Debug\FacebookApplication.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\obj\Debug\FacebookApplication.Tests.dll
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\obj\Debug\FacebookApplication.Tests.pdb
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\Facebook.dll
+D:\Projects\ASP NET\FacebookApplication\FacebookApplication\FacebookApplication.Tests\bin\Debug\Facebook.xml

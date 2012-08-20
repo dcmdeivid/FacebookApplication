@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Todos Amigos";
+}
+@model List<FacebookApplication.Models.Friend>
+<h2>Todos Amigos</h2>
+
+<ul>
+    @foreach (var friend in Model)
+    {
+        <li>@friend.Name
+            <img src="@friend.PictureSource" />
+        </li>
+    }
+</ul>

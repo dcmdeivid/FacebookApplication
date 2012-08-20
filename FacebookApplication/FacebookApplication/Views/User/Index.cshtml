@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Usuário logado";
+}
+
+@model FacebookApplication.Models.User
+<h2>Detalhes usuário</h2>
+<p>
+    <strong>Nome: </strong>@Model.Name 
+    <img src="@Model.PictureSource" />
+</p>
+Clique @Html.ActionLink("aqui", "All", "Friend") e veja seus amigos 
